@@ -1,0 +1,14 @@
+C:\Users\neti_\source\repos\ElectrónicaSQ\ElectrónicaSQ\bin\Debug\net8.0\ElectrónicaSQ.exe
+C:\Users\neti_\source\repos\ElectrónicaSQ\ElectrónicaSQ\bin\Debug\net8.0\ElectrónicaSQ.deps.json
+C:\Users\neti_\source\repos\ElectrónicaSQ\ElectrónicaSQ\bin\Debug\net8.0\ElectrónicaSQ.runtimeconfig.json
+C:\Users\neti_\source\repos\ElectrónicaSQ\ElectrónicaSQ\bin\Debug\net8.0\ElectrónicaSQ.dll
+C:\Users\neti_\source\repos\ElectrónicaSQ\ElectrónicaSQ\bin\Debug\net8.0\ElectrónicaSQ.pdb
+C:\Users\neti_\source\repos\ElectrónicaSQ\ElectrónicaSQ\obj\Debug\net8.0\ElectrónicaSQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neti_\source\repos\ElectrónicaSQ\ElectrónicaSQ\obj\Debug\net8.0\ElectrónicaSQ.AssemblyInfoInputs.cache
+C:\Users\neti_\source\repos\ElectrónicaSQ\ElectrónicaSQ\obj\Debug\net8.0\ElectrónicaSQ.AssemblyInfo.cs
+C:\Users\neti_\source\repos\ElectrónicaSQ\ElectrónicaSQ\obj\Debug\net8.0\ElectrónicaSQ.csproj.CoreCompileInputs.cache
+C:\Users\neti_\source\repos\ElectrónicaSQ\ElectrónicaSQ\obj\Debug\net8.0\ElectrónicaSQ.dll
+C:\Users\neti_\source\repos\ElectrónicaSQ\ElectrónicaSQ\obj\Debug\net8.0\refint\ElectrónicaSQ.dll
+C:\Users\neti_\source\repos\ElectrónicaSQ\ElectrónicaSQ\obj\Debug\net8.0\ElectrónicaSQ.pdb
+C:\Users\neti_\source\repos\ElectrónicaSQ\ElectrónicaSQ\obj\Debug\net8.0\ElectrónicaSQ.genruntimeconfig.cache
+C:\Users\neti_\source\repos\ElectrónicaSQ\ElectrónicaSQ\obj\Debug\net8.0\ref\ElectrónicaSQ.dll
